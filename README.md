@@ -37,5 +37,11 @@ This project predicts student pass/fail performance using machine learning techn
 - Nur Fatiha Binti Burahim
 - Ayu Nabiha Binti Jamalludin
 
+## How to Run Google Colab
+1. Open the notebook in Google Colab
+2. Upload StudentPerformanceFactors.csv
+3. Run all cells
+4. View evaluation results and graphs
+
 ## Results
 The project evaluates multiple machine learning models to identify the best-performing classifier for predicting student academic success.
