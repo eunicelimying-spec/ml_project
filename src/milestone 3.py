@@ -17,9 +17,7 @@ print("\n=== Milestone 3: Training Loop ===")
 # Load Dataset
 # =========================
 
-df = pd.read_csv(
-    r"C:\Users\admin\Downloads\Telegram Desktop\StudentPerformanceFactors.csv"
-)
+df = pd.read_csv("StudentPerformanceFactors.csv")
 
 print("\n=== Dataset Loaded Successfully ===")
 print(df.head())
